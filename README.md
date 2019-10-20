@@ -37,6 +37,18 @@
 
 ## Initial Demon TLDR 
 
+Initial Demon is a part of a greater plugin suite by Studio Nani called 
+
+### Omoide (思い出)
+
+Check out our other awesome plugins through the following links!
+
+- https://github.com/TGovers/Angry_Ayaya
+
+- https://github.com/TGovers/Initial_Delay
+
+- https://github.com/TGovers/Tokyo_Re-Verb
+
 Initial Demon is a simple and intuitive audio plugin with an anime aesthetic. It utilises a 2-parameter IIR Filter and a 3-parameter Delay variation. Initial Demon was designed for use with a multitude of different instruments in mind, such as
 * Synths
 * Baritone Electric Guitars
