@@ -12,7 +12,7 @@
 ![alt text](https://i.imgur.com/cbV3Zus.png "Initial Demon")
 
 ## Table of Contents  
-[Initial Demon Demostration Videos](#initialdemondemonstrationvideos)
+[Initial Demon Demostration Video](#initialdemondemonstrationvideo)
 
 [Initial Demon TLDR](#initialdemontldr)
 
@@ -24,20 +24,16 @@
 
 [License](#license)
 
-<a name="initialdemondemonstrationvideos"/>
+<a name="initialdemondemonstrationvideo"/>
 <a name="initialdemontldr"/>
 <a name="installationguide"/>
 <a name="initialdemonindepth"/>
 
-## Initial Demon Demonstration Videos
+## Initial Demon Demonstration Video
 
-### Song Demonstration (WORK IN PROGRESS)
+### Amoide (思い出) Demonstration
 
-![alt text](https://i.imgur.com/aKIrEBF.png "Coming Soon")
-
-### White Noise Demonstration (WORK IN PROGRESS)
-
-![alt text](https://i.imgur.com/aKIrEBF.png "Coming Soon")
+[![IMAGE ALT TEXT HERE](https://i.imgur.com/GYrOufe.png)](https://vimeo.com/367559235)
 
 ## Initial Demon TLDR 
 
