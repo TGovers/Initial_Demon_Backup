@@ -69,7 +69,7 @@ We wanted to release Initial Demon for free, but if you wish to donate it would 
 
 Additionally, if you want to get in contact with us please refer to our personal websites:
 
-- tgovers1998.wixsite.come/taylorgovers
+- https://tgovers1998.wixsite.com/taylorgovers
 
 - https://ethanzacharypunter.wixsite.com/studionani
 
